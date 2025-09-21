@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name] - Data Engineer
+# 👋 Hello, I'm Kondala Kandimalla - Data Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
@@ -13,7 +13,7 @@ I'm a passionate Data Engineer with expertise in building scalable data pipeline
 - 🌱 Learning advanced cloud data engineering patterns on AWS/GCP
 - 👯 Looking to collaborate on open-source data engineering tools and frameworks
 - 💬 Ask me about data modeling, ETL optimization, and cloud data warehousing
-- 📫 Reach me: [your.email@domain.com]
+- 📫 Reach me: kondalakandimalla86@gmail.com
 - ⚡ Fun fact: I've processed over 1TB of data in my personal projects!
 
 ## 🛠️ Technical Skills
