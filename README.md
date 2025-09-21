@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@yourprofile)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://kaggle.com/yourprofile)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername&countColor=%23263759)
 ## 🚀 About Me
 
 I'm a passionate Data Engineer with expertise in building scalable data pipelines, ETL processes, and data infrastructure. I love transforming raw data into valuable insights and creating robust data ecosystems.
