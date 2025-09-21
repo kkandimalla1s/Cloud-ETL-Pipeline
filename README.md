@@ -99,4 +99,4 @@ Terraform configurations for setting up cloud data warehouses on AWS Redshift an
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername) | 🚀 Passionate about building data infrastructure that scales
+⭐️ From kondalakandimalla86@gmail.com(https://github.com/kkandimalla1s) | 🚀 Passionate about building data infrastructure that scales
